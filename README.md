@@ -24,8 +24,8 @@ Wat doen we NIET
 ====
 1. Financieel investeringsadvies geven
 2. Zelf actief meewerken aan het beheer van de bitcoins van bedrijven.
-3. Bedrijven eigen services aanbieden zonder de andere mogelijkheden te overlopen/bespreken. 
-4. Regels en plichten opleggen aan onze leden. 
+3. Bedrijven eigen services aanbieden zonder de andere mogelijkheden neutraal te overlopen/bespreken. 
+
 
 TL;DR
 ====
