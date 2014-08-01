@@ -71,7 +71,7 @@ Volgende mensen kan u rechtstreeks aanspreken over dit project via meerdere kana
 * Bitcointalk: Dnaleor
 * 
 - Uzelf? 
-* laat het ons weten! 
+* laat het ons weten!  
 
 
 
