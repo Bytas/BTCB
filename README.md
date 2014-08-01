@@ -60,18 +60,16 @@ Wilt u meewerken?
 
 Volgende mensen kan u rechtstreeks aanspreken over dit project via meerdere kanalen
 ---
+
 -Andreas Wauters: 
--e-mail:Wautersandreas@hotmail.com
--facebook: https://www.facebook.com/wautersandreas
--twitter: @andreaswauters
--bitcointalk.org: Bytas
-
-
+*e-mail:Wautersandreas@hotmail.com
+*facebook: https://www.facebook.com/wautersandreas
+*twitter: @andreaswauters
+*bitcointalk.org: Bytas
 -Roeland Creve
--Bitcointalk: Dnaleor
-
+*Bitcointalk: Dnaleor
 -Uzelf? 
--laat het ons weten! 
+*laat het ons weten! 
 
 
 
