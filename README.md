@@ -69,7 +69,7 @@ Volgende mensen kan u rechtstreeks aanspreken over dit project via meerdere kana
 
 - Roeland Creve
 * Bitcointalk: Dnaleor
-* 
+
 - Uzelf? 
 * laat het ons weten!  
 
