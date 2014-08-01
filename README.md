@@ -10,7 +10,7 @@ Core values
 
 De bedoeling is om een open organisatie te creëren van bitcoin enthousiastelingen die het zien zitten om op vrijwillige basis mee te werken aan de promotie van bitcoin in België.
 Belangrijk om te weten is dat er geen associatie structuur zal gevormd worden zoals dat bij de Bitcoin association (zowel gewone als die in België) het geval is. Beslissingen worden op een democratische wijze genomen, en de richting die het project uitgaat wordt door de inzet van de vrijwilligers zelf bepaald.
-Het is ook niet de bedoeling dat er een financiële bijdrage voor lidmaatschap gevraagd zal worden, als er funds nodig zijn voor een project wordt dit 'case by case' bekeken en hopelijk met eenmalige vrijwillige bijdragen van leden opgelost. 
+Het is ook niet de bedoeling dat er een financiële bijdrage voor lidmaatschap gevraagd zal worden, als er funds nodig zijn voor een project wordt dit 'case by case' bekeken en hopelijk met eenmalige vrijwillige bijdragen van leden opgelost. Belangrijk is ook dat iedereen op gelijke voet staat in het aanbrengen van nieuwe ideeën en het geven van feedback daarop.
 
 Doel
 ===
@@ -28,6 +28,49 @@ Wat doen we NIET
 TL;DR
 ===
 Op vrijwillige basis, toegankelijke informatie verschaffen opdat bedrijven een geinformeerd acceptatiebeleid voor Bitcoin kunnen uitbouwen. 
+
+
+Voorlopige Kortetermijnplanning
+===
+
+Op basis van besprekingen op de bitcoin meet in gent werden er al een paar dingen uitgedacht.
+
+Opstarting
+==
+
+Aangezien dit project gegroeid is uit de bitcoinmeet in gent lijkt het een goed idee om vanuit dat oogpunt te starten. 
+
+Een eerste vereiste is medewerkers zoeken die hun kennis en kunde kunnen bijdragen aan het project. Het eerste idee was om een aangetekende brief op te sturen naar een groot aantal horeca zaken in de Gentse binnenstad en studentenbuurten. 
+Deze brief zou een simpele infobrochure bevatten, een link naar onze website met meer informatie, en een lijst met telefoonnummers waar in rechtstreeks contact kan gekomen worden met onze actieve medewerkers. Op die manier kunnen we bedrijven die wel interesse hebben in het accepteren van bitcoin maar niet weten hoe op weg helpen. 
+
+Gezochte mensen
+==
+
+- Iemand die onze website kan bouwen. Het domain BTCB.be is al geregistreerd en we hebben al hosting voor een jaar :) code kan daar dus op geschreven worden, github is hier een goed instrument om met meerdere samen te werken
+- content creators die kristalhelder proberen uitleggen hoe bitcoin werkt aan beginners (zowel voor website als voor brochure)
+- Grafische ontwerpers om een aantrekkelijke brochure te maken. 
+- Een resem vrijwilligers die het zien zitten om met een beurtrol en op vrijwillige basis via telefoon berijkbaar te zijn indien er bedrijven meer informatie willen. Ik ga misschien voor dit doel een tweede gsm (prul van 20 euro) aankopen met een nieuw nummer om zelf de berijkbaarheid te kunnen regelen en persoonlijke nummers niet te moeten delen.
+
+Wilt u meewerken? 
+Vind ons op reddit: reddit.com/r/BTCB
+vraag toegang tot deze git 
+Volgende mensen kan u rechtstreeks aanspreken over dit project via meerdere kanalen: 
+
+Andreas Wauters: 
+=
+e-mail:Wautersandreas@hotmail.com
+facebook: https://www.facebook.com/wautersandreas
+twitter: @andreaswauters
+bitcointalk.org: Bytas
+
+Roeland Creve
+=
+Bitcointalk: Dnaleor
+
+Uzelf? 
+=
+laat het ons weten! 
+
 
 
 
