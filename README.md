@@ -64,16 +64,16 @@ Volgende mensen kan u rechtstreeks aanspreken over dit project via meerdere kana
 ---
 
 1. Andreas Wauters: 
-* e-mail:Wautersandreas@hotmail.com
-* facebook: https://www.facebook.com/wautersandreas
-* twitter: @andreaswauters
-* bitcointalk.org: Bytas
+*e-mail:Wautersandreas@hotmail.com
+*facebook: https://www.facebook.com/wautersandreas
+*twitter: @andreaswauters
+*bitcointalk.org: Bytas
 
-2. Roeland Creve
-* Bitcointalk: Dnaleor
+2. Roeland Creve:
+*Bitcointalk: Dnaleor
 
 3. Uzelf? 
-* laat het ons weten!  
+*laat het ons weten!  
 
 
 
