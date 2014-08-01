@@ -25,7 +25,9 @@ Wat doen we NIET
 2. Zelf actief meewerken aan het beheer van de bitcoins van bedrijven.
 3. Bedrijven eigen services aanbieden zonder de andere mogelijkheden te overlopen/bespreken. 
 
-TL;DR: Op vrijwillige basis, toegankelijke informatie verschaffen opdat bedrijven een geinformeerd acceptatiebeleid voor Bitcoin kunnen uitbouwen. 
+TL;DR
+===
+Op vrijwillige basis, toegankelijke informatie verschaffen opdat bedrijven een geinformeerd acceptatiebeleid voor Bitcoin kunnen uitbouwen. 
 
 
 
