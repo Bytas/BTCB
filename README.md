@@ -11,6 +11,7 @@ Core values
 De bedoeling is om een open organisatie te creëren van bitcoin enthousiastelingen die het zien zitten om op vrijwillige basis mee te werken aan de promotie van bitcoin in België.
 Belangrijk om te weten is dat er geen associatie structuur zal gevormd worden zoals dat bij de Bitcoin association (zowel gewone als die in België) het geval is. Beslissingen worden op een democratische wijze genomen, en de richting die het project uitgaat wordt door de inzet van de vrijwilligers zelf bepaald.
 Het is ook niet de bedoeling dat er een financiële bijdrage voor lidmaatschap gevraagd zal worden, als er funds nodig zijn voor een project wordt dit 'case by case' bekeken en hopelijk met eenmalige vrijwillige bijdragen van leden opgelost. Belangrijk is ook dat iedereen op gelijke voet staat in het aanbrengen van nieuwe ideeën en het geven van feedback daarop.
+Als op eender welk tijdstip in de toekomst deze organisatie zou terugvallen in grootheidswaanzin, corruptie en autoritair gedrag (hopelijk nooit!) wordt aangeraden om deze git te forken en de positieve werking ervan onafhankelijk verder te zetten. Decentralisatie kan ook voor zulke zaken een oplossing zijn. ;)
 
 Doel
 ====
@@ -24,6 +25,7 @@ Wat doen we NIET
 1. Financieel investeringsadvies geven
 2. Zelf actief meewerken aan het beheer van de bitcoins van bedrijven.
 3. Bedrijven eigen services aanbieden zonder de andere mogelijkheden te overlopen/bespreken. 
+4. Regels en plichten opleggen aan onze leden. 
 
 TL;DR
 ====
