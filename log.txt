@@ -1,0 +1,18 @@
+20140801: Startup
+===
+
+contact gehad met mensen van Ahrnem Bitcoinstad: Annet de Boer
+- wil altijd helpen, feedback geven, vragen beantwoorden
+- stelt broncode ter beschikking voor eventwebsite
+- tip: naast brief ook zeker fisiek langs gaan bij zaken. 
+
+contact gehad met mensen van bitcoinboulevard: Peter Klasen
+- tips: http://www.bitcoinboulevard.nl/wiki/doku.php?id=nl%3Astart
+
+
+bedenkingen: 
+- Misschien werking splitsen in 
+  1)  BTCB: algemene organisatie voor informatie (website, brieven sturen, vrijwilligers)
+  2)  event in gent zoals ahrnem bitcoinstad, als BTCB op poten staat proberen één datum te vinden om de boel in gang te zetten.
+      Ook met apparte website? 
+
