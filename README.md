@@ -22,7 +22,7 @@ Doel
 
 Wat doen we NIET
 ====
-1. Financieel investeringsadvies geven
+1. Financieel investeringsadvies geven.
 2. Zelf actief meewerken aan het beheer van de bitcoins van bedrijven.
 3. Bedrijven eigen services aanbieden zonder de andere mogelijkheden neutraal te overlopen/bespreken. 
 
@@ -63,16 +63,16 @@ Wilt u meewerken?
 Volgende mensen kan u rechtstreeks aanspreken over dit project via meerdere kanalen
 ---
 
-- Andreas Wauters: 
+1. Andreas Wauters: 
 * e-mail:Wautersandreas@hotmail.com
 * facebook: https://www.facebook.com/wautersandreas
 * twitter: @andreaswauters
 * bitcointalk.org: Bytas
 
-- Roeland Creve
+2. Roeland Creve
 * Bitcointalk: Dnaleor
 
-- Uzelf? 
+3. Uzelf? 
 * laat het ons weten!  
 
 
