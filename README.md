@@ -59,24 +59,18 @@ Vraag toegang tot deze git
 
 
 Volgende mensen kan u rechtstreeks aanspreken over dit project via meerdere kanalen: 
+-Andreas Wauters: 
+-e-mail:Wautersandreas@hotmail.com
+-facebook: https://www.facebook.com/wautersandreas
+-twitter: @andreaswauters
+-bitcointalk.org: Bytas
 
 
-Andreas Wauters: 
-e-mail:Wautersandreas@hotmail.com
+-Roeland Creve
+-Bitcointalk: Dnaleor
 
-facebook: https://www.facebook.com/wautersandreas
-
-twitter: @andreaswauters
-
-bitcointalk.org: Bytas
-
-Roeland Creve
-
-Bitcointalk: Dnaleor
-
-Uzelf? 
-
-laat het ons weten! 
+-Uzelf? 
+-laat het ons weten! 
 
 
 
