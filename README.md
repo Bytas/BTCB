@@ -52,20 +52,30 @@ Gezochte mensen
 - Een resem vrijwilligers die het zien zitten om met een beurtrol en op vrijwillige basis via telefoon berijkbaar te zijn indien er bedrijven meer informatie willen. Ik ga misschien voor dit doel een tweede gsm (prul van 20 euro) aankopen met een nieuw nummer om zelf de berijkbaarheid te kunnen regelen en persoonlijke nummers niet te moeten delen.
 
 Wilt u meewerken? 
-Vind ons op reddit: reddit.com/r/BTCB
-vraag toegang tot deze git 
+
+Vind ons op reddit: reddit.com/r/BTCB.
+
+Vraag toegang tot deze git 
+
+
 Volgende mensen kan u rechtstreeks aanspreken over dit project via meerdere kanalen: 
+
 
 Andreas Wauters: 
 e-mail:Wautersandreas@hotmail.com
+
 facebook: https://www.facebook.com/wautersandreas
+
 twitter: @andreaswauters
+
 bitcointalk.org: Bytas
 
 Roeland Creve
+
 Bitcointalk: Dnaleor
 
 Uzelf? 
+
 laat het ons weten! 
 
 
