@@ -17,7 +17,7 @@ Doel
 ====
 1. Bitcoin actief promoten bij belgische bedrijven/zaken/winkels
 2. De nodige informatie verschaffen over bitcoin en cryptocurrencies aan zij die hier nood aan hebben. 
-3. Een makkelijk berijkbaar toegangspunt zijn voor bedrijven die vragen of problemen hebben en meer willen weten. 
+3. Een makkelijk bereikbaar toegangspunt zijn voor bedrijven die vragen of problemen hebben en meer willen weten. 
 4. bitcoingebruikers op de hoogte houden van mogelijkheden in hun omgeving en hen de status van het 'netwerk' overzichtelijk kunnen meedelen. 
 
 Wat doen we NIET
@@ -51,7 +51,7 @@ Gezochte mensen
 - Iemand die onze website kan bouwen. Het domain BTCB.be is al geregistreerd en we hebben al hosting voor een jaar :) code kan daar dus op geschreven worden, github is hier een goed instrument om met meerdere samen te werken
 - content creators die kristalhelder proberen uitleggen hoe bitcoin werkt aan beginners (zowel voor website als voor brochure)
 - Grafische ontwerpers om een aantrekkelijke brochure te maken. 
-- Een resem vrijwilligers die het zien zitten om met een beurtrol en op vrijwillige basis via telefoon berijkbaar te zijn indien er bedrijven meer informatie willen. Ik ga misschien voor dit doel een tweede gsm (prul van 20 euro) aankopen met een nieuw nummer om zelf de berijkbaarheid te kunnen regelen en persoonlijke nummers niet te moeten delen.
+- Een resem vrijwilligers die het zien zitten om met een beurtrol en op vrijwillige basis via telefoon bereikbaar te zijn indien er bedrijven meer informatie willen. Ik ga misschien voor dit doel een tweede gsm (prul van 20 euro) aankopen met een nieuw nummer om zelf de bereikbaarheid te kunnen regelen en persoonlijke nummers niet te moeten delen.
 
 Wilt u meewerken?
 ---
